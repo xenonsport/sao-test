@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcb44c9e.css",
-    "main.js": "/static/js/main.805e11c1.js",
-    "static/media/YellowMagician.woff": "/static/media/YellowMagician.81fad6c4a4e981b69a46.woff",
-    "static/media/YellowMagician.woff2": "/static/media/YellowMagician.63802baff61f420d6c9d.woff2",
-    "static/media/nav-arrow.svg": "/static/media/nav-arrow.a521e653a71cf00ce449.svg",
-    "static/media/nav-menu-bg.svg": "/static/media/nav-menu-bg.dc6d743d023d2c1790e3.svg",
-    "index.html": "/index.html",
-    "main.dcb44c9e.css.map": "/static/css/main.dcb44c9e.css.map",
-    "main.805e11c1.js.map": "/static/js/main.805e11c1.js.map"
+    "main.css": "./static/css/main.dcb44c9e.css",
+    "main.js": "./static/js/main.805e11c1.js",
+    "static/media/YellowMagician.woff": "./static/media/YellowMagician.81fad6c4a4e981b69a46.woff",
+    "static/media/YellowMagician.woff2": "./static/media/YellowMagician.63802baff61f420d6c9d.woff2",
+    "static/media/nav-arrow.svg": "./static/media/nav-arrow.a521e653a71cf00ce449.svg",
+    "static/media/nav-menu-bg.svg": "./static/media/nav-menu-bg.dc6d743d023d2c1790e3.svg",
+    "index.html": "./index.html",
+    "main.dcb44c9e.css.map": "./static/css/main.dcb44c9e.css.map",
+    "main.805e11c1.js.map": "./static/js/main.805e11c1.js.map"
   },
   "entrypoints": [
     "static/css/main.dcb44c9e.css",
